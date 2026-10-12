@@ -9,7 +9,7 @@ One of the small group of VU students the notifier serves; each Member's own LMS
 _Avoid_: user, customer, subscriber
 
 **Personal Deadline**:
-A dated obligation tied to one Member's enrolled courses (assignment, quiz, GDB, MDB, result release).
+A dated obligation tied to one Member's enrolled courses (assignment, quiz, GDB, result release).
 _Avoid_: task, due item
 
 **Institutional Window**:
